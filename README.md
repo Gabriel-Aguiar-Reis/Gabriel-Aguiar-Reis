@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Web development.<br>I'm searching for my first programming job.<br>I'm attending two colleges, analysis and system development and enterprise management.<br>I've knowledge in python, HTML, CSS and JavaScript.
+I'm currently studying Web development.<br>I'm searching for my first programming job.<br>I'm attending two colleges, analysis and system development and enterprise management.<br>I've knowledge in Python, HTML, CSS and JavaScript.
 
 
 ## 🌐 Socials:
@@ -14,20 +14,3 @@ I'm currently studying Web development.<br>I'm searching for my first programmin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gabriel-Aguiar-Reis&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
