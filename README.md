@@ -10,7 +10,7 @@ I'm currently studying Web development.<br>I'm searching for my first programmin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Aguiar-Reis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Aguiar-Reis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Aguiar-Reis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=full&position=center)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Aguiar-Reis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=full&position=mid)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gabriel-Aguiar-Reis&icon=0&color=1)](https://visitcount.itsvg.in)
