@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Web development.<br>I'm searching for my first programming job.<br>I'm attending two colleges, analysis and system development and enterprise management.<br>I've knowledge in Python, HTML, CSS and JavaScript.
+I'm currently studying Web development.<br>I'm searching for my first programming job.<br>I'm studying enterprise management at college.<br>I've knowledge in Python, HTML, CSS and JavaScript.
 
 
 ## 🌐 Socials:
