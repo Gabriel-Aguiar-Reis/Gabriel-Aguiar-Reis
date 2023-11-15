@@ -22,8 +22,8 @@ I'm searching for my first programming job.<br>I've knowledge in Python, CSS and
 
   <a href = "mailto:lugafeagre@gmail.com">
     <img widht= "10%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-aguiar-reis/" target="_blank">
-    <img width= "10%" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-aguiar-reis" target="_blank">
+    <img width= "11%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
 
