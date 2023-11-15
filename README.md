@@ -13,7 +13,8 @@ I'm searching for my first programming job.<br>I've knowledge in Python, CSS and
 
 <div display= "flex" justify-content= "flex-end" align= "right">
   
-  <img src="https://visitcount.itsvg.in/api?id=Gabriel-Aguiar-Reis&icon=0&color=1"/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Gabriel-Aguiar-Reis&label=Profile%20Views&color=12&icon=5&pretty=true">
   
 </div>
 
