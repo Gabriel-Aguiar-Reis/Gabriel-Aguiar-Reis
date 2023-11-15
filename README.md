@@ -22,9 +22,9 @@ I'm searching for my first programming job.<br>I've knowledge in Python, CSS and
 <div align= "center">
 
   <a href = "mailto:lugafeagre@gmail.com">
-    <img widht= "10%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-aguiar-reis" target="_blank">
-    <img width= "11%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
 
@@ -35,7 +35,7 @@ I'm searching for my first programming job.<br>I've knowledge in Python, CSS and
 # 📊 GitHub Stats:
 <div align="center" display= "flex">
   <a href="https://github.com/Gabriel-Aguiar-Reis">
-  <img height="180em"  width= "33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Aguiar-Reis&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em"  width= "33%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Aguiar-Reis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=full"/>  
-  <img height="180em"  width= "33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Aguiar-Reis&theme=dark&hide_border=false"/>
+  <img height="180em"  width= "33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Aguiar-Reis&theme=github_dark&hide_border=False&include_all_commits=True&count_private=True"/>
+  <img height="180em"  width= "33%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Aguiar-Reis&theme=github_dark&hide_progress=True&hide_border=False&include_all_commits=True&count_private=True&layout=full"/>  
+  <img height="180em"  width= "33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Aguiar-Reis&theme=github_dark&hide_border=False"/>
 </div>
