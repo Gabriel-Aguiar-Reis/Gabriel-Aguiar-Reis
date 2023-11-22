@@ -39,6 +39,6 @@ I'm searching for my first programming job.<br>I've knowledge in Python for Back
 # 📊 GitHub Stats:
 <div align="center" display= "flex">
   <a href="https://github.com/Gabriel-Aguiar-Reis">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Aguiar-Reis&theme=github_dark&hide_border=false&border_color=30363d&include_all_commits=false&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Aguiar-Reis&layout=compact&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Aguiar-Reis&theme=github_dark&hide_border=false&border_color=30363d&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Aguiar-Reis&layout=compact&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&border_color=30363d"/>
  
