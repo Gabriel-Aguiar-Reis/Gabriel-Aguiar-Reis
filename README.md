@@ -13,7 +13,7 @@
   
 <div align="center" display= "flex">
 
-  [![ToDo365 Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=ToDo365&theme=github_dark&border_color=30363d&desc_lines_count=2)](https://github.com/gabriel-aguiar-reis/todo365)
+  [![ToDo365 Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=ToDo365&theme=github_dark&border_color=30363d&desc_lines_count=2&description=%F0%9F%93%85+A+to-do+list+in+a+calendar.+API+in+https://todo365.onrender.com/api/+)](https://github.com/gabriel-aguiar-reis/todo365)
   
 </div>
 
