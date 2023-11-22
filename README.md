@@ -3,13 +3,21 @@
 
 # 💫 About Me:
 
-I'm searching for my first programming job.<br>I've knowledge in Python for Back-end and JavaScript for Front-end.
+- 🌎 I'm a brazilian developer.
+
+- 🔎 I'm searching for my first programming job.
+  
+- 📚 I've knowledge in Python for Back-end and JavaScript for Front-end.
 
 - 🔭 I’m currently working on my project 👇
+  
+<div align="center" display= "flex">
 
-[![ToDo365 Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=ToDo365&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/todo365)
+  [![ToDo365 Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=ToDo365&theme=github_dark&border_color=30363d&desc_lines_count=2)](https://github.com/gabriel-aguiar-reis/todo365)
+  
+</div>
 
-- 🌱 I’m currently learning **Django RESTframework, HTML, CSS and JavaScript**
+- 🌱 I’m learning **Django RESTframework, HTML, CSS and JavaScript**.
 
 <div display= "flex" justify-content= "flex-end" align= "right">
   
