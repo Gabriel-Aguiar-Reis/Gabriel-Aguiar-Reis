@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A Python developer and business management student.</h3>
-<h4 align="center">Other language: <a href="https://github.com/Gabriel-Aguiar-Reis/Gabriel-Aguiar-Reis/README_PT_BR.md">Português-Brasil</h4>
+<h4 align="center">Other language: <a href="https://github.com/Gabriel-Aguiar-Reis/Gabriel-Aguiar-Reis/tree/main/README_PT_BR.md">Português-Brasil</h4>
 
 # 💫 About Me:
 
