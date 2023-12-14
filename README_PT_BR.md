@@ -4,7 +4,7 @@
 
 # 💫 Sobre mim:
 
-- 🌎 Sou um desenvolvedor brasileiro.
+- 🌎 Sou um desenvolvedor web fullstack brasileiro.
 
 - 🔎 Estou procurando meu primeiro emprego em programação.
   
