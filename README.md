@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-- 🌎 I'm a brazilian developer.
+- 🌎 I'm a brazilian web fullstack developer.
 
 - 🔎 I'm searching for my first programming job.
   
