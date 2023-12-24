@@ -8,7 +8,7 @@
 
 - 🔎 I'm searching for my first programming job.
   
-- 📚 I've knowledge in Python for Back-end and JavaScript for Front-end.
+- 📚 I've knowledge in Python for Back-end and Typescript for Front-end.
 
 - 🔭 I’m currently working on my project 👇
   
@@ -18,7 +18,7 @@
   
 </div>
 
-- 🌱 I’m learning **Django RESTframework, HTML, CSS and JavaScript**.
+- 🌱 I’m learning **Django RESTframework, Angular and React**.
 
 <div display= "flex" justify-content= "flex-end" align= "right">
   
