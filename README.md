@@ -10,7 +10,7 @@
   
 - 📚 I've knowledge of Python for the back-end and Typescript for the front-end.
 
-- 🔭 I’m currently working on my private project MenuSunCookies
+- 🔭 I’m currently working on my private project MenuSunCookies.
 
 - 👇 My last public project.
   
