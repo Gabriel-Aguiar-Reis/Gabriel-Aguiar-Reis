@@ -10,7 +10,9 @@
   
 - 📚 Tenho conhecimentos em Python para Back-end e TypeScript para Front-end.
 
-- 🔭 Estou trabalhando atualmente no meu projeto 👇
+- 🔭 Estou trabalhando atualmente no meu projeto privado MenuSunCookies.
+
+- 👇 Meu último projeto público.
   
 <div align="center" display= "flex">
 
