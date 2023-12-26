@@ -8,7 +8,7 @@
 
 - 🔎 I'm searching for my first programming job.
   
-- 📚 I've knowledge of Python for the Back-end and Typescript for the front end.
+- 📚 I've knowledge of Python for the back-end and Typescript for the front-end.
 
 - 🔭 I’m currently working on my private project MenuSunCookies
 
