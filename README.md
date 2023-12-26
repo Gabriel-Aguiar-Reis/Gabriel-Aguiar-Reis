@@ -4,13 +4,15 @@
 
 # 💫 About Me:
 
-- 🌎 I'm a brazilian Full-stack web developer.
+- 🌎 I'm a Brazilian Full-stack web developer.
 
 - 🔎 I'm searching for my first programming job.
   
-- 📚 I've knowledge in Python for Back-end and Typescript for Front-end.
+- 📚 I've knowledge of Python for the Back-end and Typescript for the front end.
 
-- 🔭 I’m currently working on my project 👇
+- 🔭 I’m currently working on my private project MenuSunCookies
+
+- 👇 My last public project.
   
 <div align="center" display= "flex">
 
