@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Gabriel</h1>
-<h3 align="center">Um desenvolvedor Pyhton e estudante de Gestão Empresarial.</h3>
+<h3 align="center">Um desenvolvedor web e estudante de Gestão Empresarial.</h3>
 <h4 align="center">Outro Idioma: <a href="https://github.com/Gabriel-Aguiar-Reis/Gabriel-Aguiar-Reis/tree/main/README.md">Inglês</h4>
 
 # 💫 Sobre mim:
