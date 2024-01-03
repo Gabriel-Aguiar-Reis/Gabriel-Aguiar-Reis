@@ -10,17 +10,23 @@
   
 - 📚 I've knowledge of Python for the back-end and Typescript for the front-end.
 
-- 🔭 I’m currently working on my private project MenuSunCookies.
+- 🔭 I’m currently working on my project DigitalMenuForWppAPI.
+
+<div align="left" display= "flex">
+
+  [![DigitalMenuForWppAPI Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=DigitalMenuForWppAPI&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/DigitalMenuForWppAPI)
+  
+</div>
 
 - 👇 My last public project.
   
-<div align="center" display= "flex">
+<div align="left" display= "flex">
 
   [![ToDo365 Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=ToDo365&theme=github_dark&border_color=30363d&desc_lines_count=2&description=%F0%9F%93%85+A+to-do+list+in+a+calendar.+API+in+https://todo365.onrender.com/api/+)](https://github.com/gabriel-aguiar-reis/todo365)
   
 </div>
 
-- 🌱 I’m learning **Django RESTframework, Angular and React**.
+- 🌱 I’m learning **Django RESTframework and React**.
 
 <div display= "flex" justify-content= "flex-end" align= "right">
   
