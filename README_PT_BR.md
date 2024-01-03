@@ -18,7 +18,7 @@
   
 </div>
 
-- 👇 Meu último projeto público.
+- 👇 Meu último projeto.
   
 <div align="left" display= "flex">
 
