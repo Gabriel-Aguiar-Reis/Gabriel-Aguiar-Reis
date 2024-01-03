@@ -10,17 +10,23 @@
   
 - 📚 Tenho conhecimentos em Python para Back-end e TypeScript para Front-end.
 
-- 🔭 Estou trabalhando atualmente no meu projeto privado MenuSunCookies.
+- 🔭 Estou trabalhando atualmente no meu projeto DigitalMenuForWppAPI.
+
+<div align="left" display= "flex">
+
+  [![DigitalMenuForWppAPI Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=DigitalMenuForWppAPI&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/DigitalMenuForWppAPI)
+  
+</div>
 
 - 👇 Meu último projeto público.
   
-<div align="center" display= "flex">
+<div align="left" display= "flex">
 
   [![ToDo365 Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=ToDo365&theme=github_dark&border_color=30363d&desc_lines_count=2&description=%F0%9F%93%85+A+to-do+list+in+a+calendar.+API+in+https://todo365.onrender.com/api/+)](https://github.com/gabriel-aguiar-reis/todo365)
   
 </div>
 
-- 🌱 Estou aprendendo **Django RESTframework, Angular e React**.
+- 🌱 Estou aprendendo **Django RESTframework e React**.
 
 <div display= "flex" justify-content= "flex-end" align= "right">
   
