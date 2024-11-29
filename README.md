@@ -8,7 +8,7 @@
   
 - 📚 I've knowledge of Django REST for the back-end and React TS for the front-end.
 
-- 🔭 I’m currently working on my project microERP.
+- 🔭 I’m currently working on my project react-native-paper-app.
 
 <div align="left" display= "flex">
 
