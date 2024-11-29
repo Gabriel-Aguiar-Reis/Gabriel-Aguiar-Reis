@@ -5,8 +5,6 @@
 # 💫 Sobre mim:
 
 - 🌎 Sou um desenvolvedor web Full-stack brasileiro.
-
-- 🔎 Estou procurando meu primeiro emprego em programação.
   
 - 📚 Tenho conhecimentos em Python para Back-end e TypeScript para Front-end.
 
