@@ -14,7 +14,7 @@
 
 <div align="left" display= "flex">
 
-  [![DigitalMenuForWppAPI Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=DigitalMenuForWppAPI&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/DigitalMenuForWppAPI)
+  [![react-native-paper-app Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=react-native-paper-app&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/react-native-paper-app)
   
 </div>
 
@@ -22,7 +22,7 @@
   
 <div align="left" display= "flex">
 
-  [![ToDo365 Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=ToDo365&theme=github_dark&border_color=30363d&desc_lines_count=2&description=%F0%9F%93%85+A+to-do+list+in+a+calendar.+API+in+https://todo365.onrender.com/api/+)](https://github.com/gabriel-aguiar-reis/todo365)
+  [![microERP Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=microERP&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/microERP)
   
 </div>
 
