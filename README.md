@@ -48,7 +48,7 @@
 
 ![shadcnUI](https://img.shields.io/badge/shadcnUI-brightgreen?style=for-the-badge&logo=shadcnui&logoColor=EDEEF0&color=222222) ![MaterialUI](https://img.shields.io/badge/MaterialUI-brightgreen?style=for-the-badge&logo=mui&logoColor=0073e6&color=222222)
 
-![PostgreSQL](https://img.shields.io/badge/postgreSQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&color=172554) ![MySQL](https://img.shields.io/badge/MySQL-brightgreen?style=for-the-badge&logo=mysql&logoColor=white&color=172554) 
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&color=172554) ![MySQL](https://img.shields.io/badge/MySQL-brightgreen?style=for-the-badge&logo=mysql&logoColor=white&color=172554) ![SQLite](https://img.shields.io/badge/SQLite-brightgreen?style=for-the-badge&logo=sqlite&logoColor=white&color=172554) 
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
