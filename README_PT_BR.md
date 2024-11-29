@@ -10,7 +10,7 @@
   
 - 📚 Tenho conhecimentos em Python para Back-end e TypeScript para Front-end.
 
-- 🔭 Estou trabalhando atualmente no meu projeto DigitalMenuForWppAPI.
+- 🔭 Estou trabalhando atualmente no meu projeto react-native-paper-app.
 
 <div align="left" display= "flex">
 
