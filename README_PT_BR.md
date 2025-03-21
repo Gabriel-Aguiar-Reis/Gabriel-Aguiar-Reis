@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Sou Gabriel</h1>
-<h3 align="center">Um desenvolvedor web e estudante de Gestão Empresarial.</h3>
+<h3 align="center">Um desenvolvedor web e estagiário SAP ABAP.</h3>
 <h4 align="center">Outro Idioma: <a href="https://github.com/Gabriel-Aguiar-Reis/Gabriel-Aguiar-Reis/tree/main/README.md">Inglês</h4>
 
 # 💫 Sobre mim:
 
 - 🌎 Sou um desenvolvedor web Full-stack brasileiro.
   
-- 📚 Tenho conhecimentos em Python para Back-end e TypeScript para Front-end.
+- 📚 Tenho conhecimentos em Django REST, NestJS para Back-end e React, Next,js para Front-end.
 
 - 🔭 Estou trabalhando atualmente no meu projeto react-native-paper-app.
 
