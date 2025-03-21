@@ -8,11 +8,11 @@
   
 - 📚 Tenho conhecimentos em Django REST, NestJS para Back-end e React, Next,js para Front-end.
 
-- 🔭 Estou trabalhando atualmente no meu projeto react-native-paper-app.
+- 🔭 Estou trabalhando atualmente no meu projeto clean-arch-feedbacks.
 
 <div align="left" display= "flex">
 
-  [![react-native-paper-app Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=react-native-paper-app&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/react-native-paper-app)
+  [![clean-arch-feedbacks Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=clean-arch-feedbacks&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/clean-arch-feedbacks)
   
 </div>
 
@@ -20,7 +20,7 @@
   
 <div align="left" display= "flex">
 
-  [![microERP Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=microERP&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/microERP)
+  [![react-native-paper-app Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=react-native-paper-app&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/react-native-paper-app)
   
 </div>
 
