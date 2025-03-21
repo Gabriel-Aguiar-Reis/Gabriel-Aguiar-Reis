@@ -6,13 +6,13 @@
 
 - 🌎 I'm a Brazilian Full-stack web developer.
   
-- 📚 I've knowledge of Django REST for the back-end and React for the front-end.
+- 📚 I've knowledge of Django REST, NestJS for the back-end and React, Next.js for the front-end.
 
-- 🔭 I’m currently working on my project react-native-paper-app.
+- 🔭 I’m currently working on my project clean-arch-feedbacks.
 
 <div align="left" display= "flex">
 
-  [![react-native-paper-app Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=react-native-paper-app&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/react-native-paper-app)
+  [![clean-arch-feedbacks Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=clean-arch-feedbacks&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/clean-arch-feedbacks)
   
 </div>
 
@@ -20,7 +20,7 @@
   
 <div align="left" display= "flex">
 
-  [![microERP Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=microERP&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/microERP)
+   [![react-native-paper-app Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=react-native-paper-app&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/react-native-paper-app)
   
 </div>
 
