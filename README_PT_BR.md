@@ -24,8 +24,6 @@
   
 </div>
 
-- 🌱 Estou aprendendo **Django RESTframework e React**.
-
 <div display= "flex" justify-content= "flex-end" align= "right">
   
   <a href="https://visitcount.itsvg.in">
