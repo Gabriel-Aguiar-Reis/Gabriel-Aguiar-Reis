@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A web developer and business management student.</h3>
+<h3 align="center">A web developer and SAP ABAP Intern.</h3>
 <h4 align="center">Other language: <a href="https://github.com/Gabriel-Aguiar-Reis/Gabriel-Aguiar-Reis/tree/main/README_PT_BR.md">Português-Brasil</h4>
 
 # 💫 About Me:
 
 - 🌎 I'm a Brazilian Full-stack web developer.
   
-- 📚 I've knowledge of Django REST for the back-end and React TS for the front-end.
+- 📚 I've knowledge of Django REST for the back-end and React for the front-end.
 
 - 🔭 I’m currently working on my project react-native-paper-app.
 
