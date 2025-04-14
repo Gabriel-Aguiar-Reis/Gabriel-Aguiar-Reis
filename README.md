@@ -6,13 +6,13 @@
 
 - 🌎 I'm a Brazilian Full-stack web developer.
   
-- 📚 I've knowledge of Django REST, NestJS for the back-end and React, Next.js for the front-end.
+- 📚 I've knowledge of Python, .Net(C#), JavaScript and TypeScript.
 
-- 🔭 I’m currently working on my project clean-arch-feedbacks.
+- 🔭 I’m currently working on my project luxis.
 
 <div align="left" display= "flex">
 
-  [![clean-arch-feedbacks Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=clean-arch-feedbacks&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/clean-arch-feedbacks)
+  [![luxis Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=luxis&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/luxis)
   
 </div>
 
@@ -20,7 +20,7 @@
   
 <div align="left" display= "flex">
 
-   [![react-native-paper-app Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=react-native-paper-app&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/react-native-paper-app)
+   [![clean-arch-feedbacks Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=clean-arch-feedbacks&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/clean-arch-feedbacks)
   
 </div>
 
