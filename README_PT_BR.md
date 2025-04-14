@@ -6,13 +6,13 @@
 
 - 🌎 Sou um desenvolvedor web Full-stack brasileiro.
   
-- 📚 Tenho conhecimentos em Django REST, NestJS para Back-end e React, Next,js para Front-end.
+- 📚 Tenho conhecimentos em Python, .Net(C#), JavaScript e TypeScript.
 
-- 🔭 Estou trabalhando atualmente no meu projeto clean-arch-feedbacks.
+- 🔭 Estou trabalhando atualmente no meu projeto luxis.
 
 <div align="left" display= "flex">
 
-  [![clean-arch-feedbacks Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=clean-arch-feedbacks&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/clean-arch-feedbacks)
+  [![luxis Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=luxis&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/luxis)
   
 </div>
 
@@ -20,7 +20,7 @@
   
 <div align="left" display= "flex">
 
-  [![react-native-paper-app Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=react-native-paper-app&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/react-native-paper-app)
+  [![clean-arch-feedbacks Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-aguiar-reis&repo=clean-arch-feedbacks&theme=github_dark&border_color=30363d)](https://github.com/gabriel-aguiar-reis/clean-arch-feedbacks)
   
 </div>
 
@@ -43,6 +43,8 @@
 
 # 💻 Tecnologias:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=1e3a8a) ![DjangoREST](https://img.shields.io/badge/DJANGO%20REST-brightgreen?style=for-the-badge&logo=django&logoColor=EDEEF0&color=1e3a8a) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=1e3a8a)
+
+![.NET](https://img.shields.io/badge/C%23%20.NET%20ASP.NET-3670A0?style=for-the-badge&logo=dotnet&logoColor=fff&color=6e108a)
 
 ![TypeScript](https://img.shields.io/badge/typescript-brightgreen?style=for-the-badge&logo=typescript&logoColor=blue&color=222222) ![Next](https://img.shields.io/badge/Next-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=EDEEF0&color=222222) ![React](https://img.shields.io/badge/react-brightgreen?style=for-the-badge&logo=react&logoColor=00D8FF&color=222222) ![Expo](https://img.shields.io/badge/Expo-brightgreen?style=for-the-badge&logo=expo&logoColor=EDEEF0&color=222222) ![ReactNative](https://img.shields.io/badge/react%20native-brightgreen?style=for-the-badge&logo=react&logoColor=00D8FF&color=222222) ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-brightgreen?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&color=222222) ![NestJS](https://img.shields.io/badge/NestJS-brightgreen?style=for-the-badge&logo=nestjs&logoColor=EA2858&color=222222)
 ![TypeORM](https://img.shields.io/badge/typeORM-brightgreen?style=for-the-badge&logo=typeorm&logoColor=EA3B2B&color=222222)
