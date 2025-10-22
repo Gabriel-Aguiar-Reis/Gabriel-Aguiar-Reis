@@ -6,7 +6,7 @@
 
 - 🌎 Sou um desenvolvedor web Full-stack brasileiro.
   
-- 📚 Tenho conhecimentos em Python, .Net(C#), JavaScript e TypeScript.
+- 📚 Tenho conhecimentos em Python, JavaScript e TypeScript.
 
 - 🔭 Estou trabalhando atualmente no meu projeto luxis.
 
@@ -34,7 +34,7 @@
 <h1 align= "center">🌐 Redes Sociais</h1>
 <div align= "center">
 
-  <a href = "mailto:lugafeagre@gmail.com">
+  <a href = "mailto:dev.gabriel.aguiar@icloud.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-aguiar-reis" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -43,8 +43,6 @@
 
 # 💻 Tecnologias:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=1e3a8a) ![DjangoREST](https://img.shields.io/badge/DJANGO%20REST-brightgreen?style=for-the-badge&logo=django&logoColor=EDEEF0&color=1e3a8a) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=1e3a8a)
-
-![.NET](https://img.shields.io/badge/C%23%20.NET%20ASP.NET-3670A0?style=for-the-badge&logo=dotnet&logoColor=fff&color=6e108a)
 
 ![TypeScript](https://img.shields.io/badge/typescript-brightgreen?style=for-the-badge&logo=typescript&logoColor=blue&color=222222) ![Next](https://img.shields.io/badge/Next-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=EDEEF0&color=222222) ![React](https://img.shields.io/badge/react-brightgreen?style=for-the-badge&logo=react&logoColor=00D8FF&color=222222) ![Expo](https://img.shields.io/badge/Expo-brightgreen?style=for-the-badge&logo=expo&logoColor=EDEEF0&color=222222) ![ReactNative](https://img.shields.io/badge/react%20native-brightgreen?style=for-the-badge&logo=react&logoColor=00D8FF&color=222222) ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-brightgreen?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&color=222222) ![NestJS](https://img.shields.io/badge/NestJS-brightgreen?style=for-the-badge&logo=nestjs&logoColor=EA2858&color=222222)
 ![TypeORM](https://img.shields.io/badge/typeORM-brightgreen?style=for-the-badge&logo=typeorm&logoColor=EA3B2B&color=222222)
