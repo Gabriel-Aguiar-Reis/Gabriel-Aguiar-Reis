@@ -2,7 +2,7 @@
 <p><em>Software Enginner at <a href="https://uniamerica.br/">Uniamérica</a></br>Software Engineer at <a href="https://meta.com.br/">Meta</a>
 </em></p>
 
-[![Linkedin: gabriel-aguiar](https://img.shields.io/badge/linkedin-gabrielaguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/o-gabriel-aguiar/)
+[![Linkedin: gabriel-aguiar](https://img.shields.io/badge/linkedin-gabriel-aguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/o-gabriel-aguiar/)](https://www.linkedin.com/in/o-gabriel-aguiar/)
 [![GitHub gabriel-aguiar](https://img.shields.io/github/followers/gabriel?label=follow&style=social)](https://github.com/gabriel-aguiar-reis)
 
 
