@@ -12,13 +12,14 @@
 import { hire } from 'yourCompany'
 
 const me = {
-  code: [Javascript, Typescript, Python, Java],
-  frameworks: [Node, React, React Native, Django, Expo, FastAPI, Nest, Next, Spring Boot],
-  libs: [LangChain, TailwindCSS, Styled-Components],
-  tests: [Jest, Pytest, Junit],
-  databases: [PostgreSQL, SQLite],
-  cloud: [Docker, AWS, Terraform],
-  architecture: ["microservices", "event-driven", "design patterns", "clean architecture"],
+  email: 'dev.gabriel.aguiar@icloud.com',
+  code: ['JavaScript', 'TypeScript', 'Python', 'Java'],
+  frameworks: ['Node', 'React', 'React Native', 'Django', 'Expo', 'FastAPI', 'Nest', 'Next', 'Spring Boot'],
+  libs: ['LangChain', 'TailwindCSS', 'Styled-Components'],
+  tests: ['Jest', 'Pytest', 'Junit'],
+  databases: ['PostgreSQL', 'SQLite'],
+  cloud: ['Docker', 'AWS', 'Terraform'],
+  architecture: ['microservices', 'event-driven', 'design patterns', 'clean architecture'],
 }
 
 const yourCompanySuccess = async () => {
@@ -29,6 +30,6 @@ const yourCompanySuccess = async () => {
 ```
 ---
 
-Now it's your turn:
+### Now, it's your turn 👇🏻
 
-- [ ] run yourCompanySuccess()
+run `yourCompanySuccess()`
